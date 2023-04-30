@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.15)  21 JAN 2023 12:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.2.7)  29 APR 2023 22:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -781,24 +781,24 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \@quotelevel=\count429
 \@quotereset=\count430
-
-No file lab2.aux.
+ (./lab2.aux)
 \openout1 = `lab2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count431
@@ -838,8 +838,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'lab2.bbl' not found.
 
 No file lab2.bbl.
-Package biblatex Info: Reference section=0 on input line 24.
-Package biblatex Info: Reference segment=0 on input line 24.
+Package biblatex Info: Reference section=0 on input line 26.
+Package biblatex Info: Reference segment=0 on input line 26.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -876,39 +876,242 @@ Package biblatex Info: Reference segment=0 on input line 24.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<./images/task1.png, id=13, 1385.175pt x 1058.95625pt>
+File: ./images/task1.png Graphic file (type png)
+<use ./images/task1.png>
+Package pdftex.def Info: ./images/task1.png  used on input line 68.
+(pdftex.def)             Requested size: 277.03009pt x 211.78749pt.
 
-LaTeX Warning: Empty bibliography on input line 68.
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--84
+
+ []
+
+[2 <./images/task1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+
+ []
+
+<./images/cutoff.png, id=21, 1894.07625pt x 1210.5225pt>
+File: ./images/cutoff.png Graphic file (type png)
+<use ./images/cutoff.png>
+Package pdftex.def Info: ./images/cutoff.png  used on input line 92.
+(pdftex.def)             Requested size: 378.80853pt x 242.1002pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+<./images/sat1.png, id=22, 1826.825pt x 1185.42876pt>
+File: ./images/sat1.png Graphic file (type png)
+<use ./images/sat1.png>
+Package pdftex.def Info: ./images/sat1.png  used on input line 102.
+(pdftex.def)             Requested size: 365.35854pt x 237.08154pt.
+<./images/sat2.png, id=23, 1889.0575pt x 1224.575pt>
+File: ./images/sat2.png Graphic file (type png)
+<use ./images/sat2.png>
+Package pdftex.def Info: ./images/sat2.png  used on input line 110.
+(pdftex.def)             Requested size: 377.80481pt x 244.91066pt.
+[3 <./images/cutoff.png> <./images/sat1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+<./images/linear.png, id=29, 1889.0575pt x 1211.52625pt>
+File: ./images/linear.png Graphic file (type png)
+<use ./images/linear.png>
+Package pdftex.def Info: ./images/linear.png  used on input line 120.
+(pdftex.def)             Requested size: 377.80481pt x 242.30095pt.
+[4 <./images/sat2.png> <./images/linear.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--175
+
+ []
+
+[5]
+<./images/task2.png, id=39, 772.8875pt x 964.60374pt>
+File: ./images/task2.png Graphic file (type png)
+<use ./images/task2.png>
+Package pdftex.def Info: ./images/task2.png  used on input line 188.
+(pdftex.def)             Requested size: 154.57475pt x 192.91733pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 193--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--201
+
+ []
+
+[6 <./images/task2.png>]
+<./images/t2s3.png, id=44, 1841.88126pt x 1176.395pt>
+File: ./images/t2s3.png Graphic file (type png)
+<use ./images/t2s3.png>
+Package pdftex.def Info: ./images/t2s3.png  used on input line 209.
+(pdftex.def)             Requested size: 368.36974pt x 235.27483pt.
+
+Overfull \hbox (54.18323pt too wide) in paragraph at lines 220--232
+ [] 
+ []
+
+[7 <./images/t2s3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+<./images/plot.png, id=50, 1733.47626pt x 1050.92625pt>
+File: ./images/plot.png Graphic file (type png)
+<use ./images/plot.png>
+Package pdftex.def Info: ./images/plot.png  used on input line 242.
+(pdftex.def)             Requested size: 346.68912pt x 210.18153pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--252
+
+ []
+
+[8 <./images/plot.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 258--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+<./images/task3.png, id=55, 1216.545pt x 977.6525pt>
+File: ./images/task3.png Graphic file (type png)
+<use ./images/task3.png>
+Package pdftex.def Info: ./images/task3.png  used on input line 268.
+(pdftex.def)             Requested size: 243.30469pt x 195.52704pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+
+ []
+
+[9 <./images/task3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 289--291
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--314
+
+ []
+
+<./images/graph.png, id=60, 1723.43875pt x 1087.06125pt>
+File: ./images/graph.png Graphic file (type png)
+<use ./images/graph.png>
+Package pdftex.def Info: ./images/graph.png  used on input line 316.
+(pdftex.def)             Requested size: 344.68164pt x 217.40839pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--323
+
+ []
+
+[10 <./images/graph.png>]
+
+LaTeX Warning: Empty bibliography on input line 326.
 
 (./lab2.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                lab2
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'lab2.run.xml'.
 \openout1 = `lab2.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36298 strings out of 478287
- 876431 string characters out of 5849289
- 1787538 words of memory out of 5000000
- 54144 multiletter control sequences out of 15000+600000
- 471376 words of font info for 35 fonts, out of 8000000 for 9000
+ 36405 strings out of 478287
+ 878398 string characters out of 5849290
+ 1794582 words of memory out of 5000000
+ 54229 multiletter control sequences out of 15000+600000
+ 474795 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,5n,103p,737b,801s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,8n,103p,737b,801s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on lab2.pdf (2 pages, 49776 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on lab2.pdf (10 pages, 1787329 bytes).
 PDF statistics:
- 34 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 96 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
